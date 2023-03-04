@@ -1,2 +1,2 @@
 # Assignment2
-https://github.com/GedizUcar/Assignment2.git
+https://gedizucar.github.io/Assignment2/
